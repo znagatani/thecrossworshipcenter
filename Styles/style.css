@@ -1,0 +1,39 @@
+body {
+	margin: 10px auto 10px auto;
+	max-width: 940px;
+	max-width: 720px;
+	/*border: solid black; */
+}
+
+header {
+	text-align: center;
+}
+
+header img{	
+	width: 200px;
+	height: 157px;
+}
+
+.nav_bar ul {
+	width: 570px;
+	padding: 15px;
+	margin: 0px auto 0px auto;
+	text-align: center;
+	border-top: 2px solid;
+	border-bottom: 2px solid;
+}
+
+.nav_bar li {
+	list-style: none;
+	display: inline;
+	margin: 0px 10px;
+}
+
+.main_image {
+	text-align: center;
+}
+
+.main_image img {
+	width: 600px;
+	height: 375px;
+}
