@@ -1,7 +1,10 @@
 body {
+	font-family: helvetica;
+}
+
+#page {
 	margin: 10px auto 10px auto;
-	max-width: 940px;
-	max-width: 720px;
+	width: 940px;
 	/*border: solid black; */
 }
 
@@ -15,7 +18,7 @@ header img{
 }
 
 .nav_bar ul {
-	width: 570px;
+	width: 910px;
 	padding: 15px;
 	margin: 0px auto 0px auto;
 	text-align: center;
@@ -27,6 +30,7 @@ header img{
 	list-style: none;
 	display: inline;
 	margin: 0px 10px;
+	font-weight: bold;
 }
 
 .main_image {
@@ -34,6 +38,12 @@ header img{
 }
 
 .main_image img {
-	width: 600px;
-	height: 375px;
+	width: 900px;
+	height: 563px;
+}
+
+.service_info {
+	text-align: center;
+	font-size: 22px;
+	font-weight: bold;
 }
