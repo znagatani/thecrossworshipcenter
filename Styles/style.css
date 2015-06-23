@@ -1,12 +1,13 @@
 body {
 	font-family: helvetica;
+	color: #33333;
 }
 
 #page {
 	margin: 10px auto 10px auto;
 	width: 940px;
-	/*border: solid black; */
-}
+	/*border: double black; */
+}	
 
 header {
 	text-align: center;
